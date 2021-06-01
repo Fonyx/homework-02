@@ -34,3 +34,7 @@ The css file  was commented, streamlined into general classes and id's and was r
     benefit-lead: Added for any overrides needed for the first benefit about lead generation
     benefit-brand: Added for any overrides needed for the second benefit about brand awareness
     benefit-cost: Added for any overrides needed for the third benefit about cost management
+
+
+# Running Location of Homework:
+https://fonyx.github.io/homework-02/#social-media-marketing
