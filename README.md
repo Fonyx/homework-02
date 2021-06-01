@@ -1,7 +1,7 @@
 # Refactoring Homework
 This homework is centered around a marketing agency website that must be refactored. The focus is on accessibility improvements and code quality/efficiency. The website is shown below;
 
-![Alt text](/screenshot.png?raw=true "Agency website")
+![Screenshot](https://github.com/Fonyx/homework-02/blob/main/screenshot.PNG?raw=true "Agency website")
 
 # General Refactoring Approach
 In the homework my main goals were 
