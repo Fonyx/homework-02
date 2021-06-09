@@ -1,0 +1,2 @@
+deployment: https://fonyx.github.io/homework-02/#social-media-marketing
+repo: https://github.com/Fonyx/homework-02
